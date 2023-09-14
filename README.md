@@ -9,6 +9,7 @@ I'm a passionate Full-Stack Developer with a focus on improving my skills in:
 - JavaScript
 - React.js
 - Tailwind CSS
+- Nextjs
 
 I'm also working on backend development using:
 
