@@ -1,31 +1,32 @@
-# Hi 👋, I'm Bruno Machado Morales
+# Hello there! 👋 I'm Bruno Machado Morales
 
-## Full-Stack Developer | Studying ADS
+## Aspiring Full-Stack Developer | Student of ADS
 
-I'm a passionate Full-Stack Developer with a focus on improving my skills in:
+🚀 On a journey to become a skilled Full-Stack Developer with a strong focus on both frontend and backend technologies. 🌐
+
+🌟 Currently honing my frontend skills in:
 
 - HTML
 - CSS
 - JavaScript
 - React.js
 - Tailwind CSS
-- Nextjs
 
-I'm also working on backend development using:
+💻 Also diving into the backend world with:
 
 - Java
 - Spring Boot
 
-Let's build amazing things together! 😄
+Let's code and create amazing digital experiences together! 🚀✨
 
 ## Languages and Tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 
-## Contatos:
+## Get in Touch:
 
-<div>
-   <a href="https://instagram.com/brunommorales_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/brunommorales" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+📫 Reach out to me:
+
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/brunommorales)
+- Instagram: [Follow me on Instagram](https://instagram.com/brunommorales_)
