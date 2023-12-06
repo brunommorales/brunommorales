@@ -25,3 +25,22 @@ Let's code and create amazing digital experiences together! 🚀✨
 
 <a href="https://instagram.com/brunommorales_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brunommorales" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+# My Status
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunommorales&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunommorales&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<!--
+![overview](https://raw.githubusercontent.com/brunommorales/github-stats/master/generated/overview.svg)
+![langs used](https://raw.githubusercontent.com/brunommorales/github-stats/master/generated/languages.svg)
