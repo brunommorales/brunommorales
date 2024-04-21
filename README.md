@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Bruno Machado Morales
 
-## Aspiring Full-Stack Developer | Student of ADS
+## Full-Stack Developer | M.Sc Student 
 
 🚀 On a journey to become a skilled Full-Stack Developer with a strong focus on both frontend and backend technologies. 🌐
 
