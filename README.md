@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Bruno Machado Morales
+# Hello there! 👋 I'm Bruno
 
 ## Full-Stack Developer | M.Sc Student 
 
